@@ -1,4 +1,4 @@
-# GoLang
+# GOLang
 + compiled language - that's why its so fast - compiling a source code into  a lower level language in executable binary file - we can run it without go when compled into exe file
 + mostly for server side apps - APIs or website backends
 + concurrency support
